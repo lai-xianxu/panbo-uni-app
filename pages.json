@@ -1,0 +1,376 @@
+{
+  "pages": [
+    {
+      "path": "pages/init-page/index",
+      "style": {
+        "navigationBarTitleText": "初始页"
+      }
+    },
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/home/transfer-accounts/index",
+      "style": {
+        "navigationBarTitleText": "余额转账"
+      }
+    },
+    {
+      "path": "pages/home/scan-code/index",
+      "style": {
+        "navigationBarTitleText": "扫码"
+      }
+    },
+    {
+      "path": "pages/home/search/index",
+      "style": {
+        "navigationBarTitleText": "搜索"
+      }
+    },
+    {
+      "path": "pages/home/social-insurance/index",
+      "style": {
+        "navigationBarTitleText": "社会保险"
+      }
+    },
+    {
+      "path": "pages/home/commercial-insurance/index",
+      "style": {
+        "navigationBarTitleText": "商业保险"
+      }
+    },
+    {
+      "path": "pages/home/collection-code/index",
+      "style": {
+        "navigationBarTitleText": "收款码"
+      }
+    },
+    {
+      "path": "pages/home/loan-application/index",
+      "style": {
+        "navigationBarTitleText": "申请贷款"
+      }
+    },
+    {
+      "path": "pages/home/loan-application/historical-record/index",
+      "style": {
+        "navigationBarTitleText": "更多记录"
+      }
+    },
+    {
+      "path": "pages/home/loan-application/components/historical-record-detail/index",
+      "style": {
+        "navigationBarTitleText": "更多记录详情"
+      }
+    },
+    {
+      "path": "pages/home/article-detail/index",
+      "style": {
+        "navigationBarTitleText": "咨询详情"
+      }
+    },
+    {
+      "path": "pages/position/index",
+      "style": {
+        "navigationBarTitleText": "职位"
+      }
+    },
+    {
+      "path": "pages/position/search-city/index",
+      "style": {
+        "navigationBarTitleText": "城市"
+      }
+    },
+    {
+      "path": "pages/position/company-detail/index",
+      "style": {
+        "navigationBarTitleText": "公司详情"
+      }
+    },
+    {
+      "path": "pages/position/position-detail/index",
+      "style": {
+        "navigationBarTitleText": "招聘详情"
+      }
+    },
+    {
+      "path": "pages/position/position-detail/desc-detail/index",
+      "style": {
+        "navigationBarTitleText": "职位详情"
+      }
+    },
+    {
+      "path": "pages/position/recruit-msg-detail/index",
+      "style": {
+        "navigationBarTitleText": "招聘消息详情"
+      }
+    },
+    {
+      "path": "pages/position/online-resume/index",
+      "style": {
+        "navigationBarTitleText": "在线简历"
+      }
+    },
+    {
+      "path": "pages/position/resume-edit/index",
+      "style": {
+        "navigationBarTitleText": "在线简历-编辑"
+      }
+    },
+    {
+      "path": "pages/position/positioning/index",
+      "style": {
+        "navigationBarTitleText": "招聘定位"
+      }
+    },
+    {
+      "path": "pages/message/index",
+      "style": {
+        "navigationBarTitleText": "消息"
+      }
+    },
+    {
+      "path": "pages/message/detail/index",
+      "style": {
+        "navigationBarTitleText": "消息详情"
+      }
+    },
+    {
+      "path": "pages/my/index",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/my/edit-info/index",
+      "style": {
+        "navigationBarTitleText": "修改用户信息",
+        "enablePullDownRefresh": false,
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/my/edit-info/edit-input/index",
+      "style": {
+        "navigationBarTitleText": "修改名称",
+        "enablePullDownRefresh": false,
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/demo/index",
+      "style": {
+        "navigationBarTitleText": "小样"
+      }
+    },
+    {
+      "path": "pages/my/credit-card/index",
+      "style": {
+        "navigationBarTitleText": "信用卡办理"
+      }
+    },
+    {
+      "path": "pages/my/electronic-contract/index",
+      "style": {
+        "navigationBarTitleText": "电子合同"
+      }
+    },
+    {
+      "path": "pages/my/iframe-page/index",
+      "style": {
+        "navigationBarTitleText": "iframe渲染"
+      }
+    },
+    {
+      "path": "pages/my/my-delivery/index",
+      "style": {
+        "navigationBarTitleText": "我的投递"
+      }
+    },
+    {
+      "path": "pages/my/bank-card/index",
+      "style": {
+        "navigationBarTitleText": "银行卡管理"
+      }
+    },
+    {
+      "path": "pages/my/bank-card/pay-password-check/index",
+      "style": {
+        "navigationBarTitleText": "添加银行卡验证"
+      }
+    },
+    {
+      "path": "pages/my/bank-card/add-bank-card/index",
+      "style": {
+        "navigationBarTitleText": "添加银行卡"
+      }
+    },
+    {
+      "path": "pages/my/bank-card/index-list/index",
+      "style": {
+        "navigationBarTitleText": "索引列"
+      }
+    },
+    {
+      "path": "pages/my/balance/index",
+      "style": {
+        "navigationBarTitleText": "余额详情"
+      }
+    },
+    {
+      "path": "pages/my/balance/deposit/index",
+      "style": {
+        "navigationBarTitleText": "存入"
+      }
+    },
+    {
+      "path": "pages/my/balance/base-detail/index",
+      "style": {
+        "navigationBarTitleText": "工资详情"
+      }
+    },
+    {
+      "path": "pages/my/balance/billing-detail/index",
+      "style": {
+        "navigationBarTitleText": "账单详情"
+      }
+    },
+    {
+      "path": "pages/my/invite-user/invite-history/index",
+      "style": {
+        "navigationBarTitleText": "邀请用户"
+      }
+    },
+    {
+      "path": "pages/my/invite-user/index",
+      "style": {
+        "navigationBarTitleText": "邀请用户详情"
+      }
+    },
+    {
+      "path": "pages/setting/index",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/setting/notify/index",
+      "style": {
+        "navigationBarTitleText": "消息通知"
+      }
+    },
+    {
+      "path": "pages/setting/gesture-password/setting-gesture1/index",
+      "style": {
+        "navigationBarTitleText": "设置手势密码1"
+      }
+    },
+    {
+      "path": "pages/setting/gesture-password/setting-gesture2/index",
+      "style": {
+        "navigationBarTitleText": "设置手势密码2"
+      }
+    },
+    {
+      "path": "pages/setting/edit-info/index",
+      "style": {
+        "navigationBarTitleText": "修改信息"
+      }
+    },
+    {
+      "path": "pages/setting/real-name-auth/index",
+      "style": {
+        "navigationBarTitleText": "实名认证"
+      }
+    },
+    {
+      "path": "pages/login/input-login/index",
+      "style": {
+        "navigationBarTitleText": "密码登录"
+      }
+    },
+    {
+      "path": "pages/login/code-login/index",
+      "style": {
+        "navigationBarTitleText": "验证码登录"
+      }
+    },
+    {
+      "path": "pages/login/setting-password/index",
+      "style": {
+        "navigationBarTitleText": "设置登录"
+      }
+    },
+    {
+      "path": "pages/login/gesture-password/index",
+      "style": {
+        "navigationBarTitleText": "手势登录"
+      }
+    },
+    {
+      "path": "pages/login/sign-up/index",
+      "style": {
+        "navigationBarTitleText": "手势登录"
+      }
+    },
+    {
+      "path": "pages/login/web-view/index",
+      "style": {
+        "navigationStyle": "default",
+        "navigationBarTitleText": "服务协议"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationStyle": "custom",
+    "autoscan": true,
+    "app-plus": {
+      "titleNView": false
+    }
+  },
+  "tabBar": {
+    "color": "#777777",
+    "selectedColor": "#17BCEF",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "#ffffff",
+    "fontSize": "14px",
+    "iconWidth": "24px",
+    "spacing": "2px",
+    "height": "60px",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "iconPath": "static/tabBar/home.png",
+        "selectedIconPath": "static/tabBar/home-selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/position/index",
+        "iconPath": "static/tabBar/position.png",
+        "selectedIconPath": "static/tabBar/position-selected.png",
+        "text": "职位"
+      },
+      {
+        "pagePath": "pages/message/index",
+        "iconPath": "static/tabBar/message.png",
+        "selectedIconPath": "static/tabBar/message-selected.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "static/tabBar/my.png",
+        "selectedIconPath": "static/tabBar/my-selected.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
